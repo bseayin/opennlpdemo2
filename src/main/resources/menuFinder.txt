@@ -1,0 +1,6 @@
+i want to open <START:menu> about us <END>  please .
+i want to open <START:menu> user list <END>  please .
+please open  <START:menu> user list <END>   .
+please open  <START:menu> user edit <END>   .
+please open  <START:menu> product edit <END>   .
+Mr . <START:menu> product list <END> is chairman of Elsevier N.V. , the Dutch publishing group .
